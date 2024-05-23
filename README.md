@@ -7,6 +7,6 @@ real-time.
 ### Built with
 - React JS
 - Tailwind CSS
-- Firebase
+- Firebase (Firestore)
 
 
